@@ -1,14 +1,12 @@
 .title{
         text-align: center;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-weight: 700;
-        font-size: 48px;
+        font-size: 24px;
 }
 
 .messageUser{
         text-align: center;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-weight: 500;
-        font-size: 36px;
-        color: rgb(55, 119, 216);
+        font-size: 16px;
+        color: rgb(237, 188, 116);
+        font-weight: 800;
 }
