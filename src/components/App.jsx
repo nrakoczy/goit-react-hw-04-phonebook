@@ -50,8 +50,9 @@ export default function App() {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 35,
+        fontSize: 20,
         color: '#010101',
+        fontWeight: 700,
       }}
     >
       <div>
